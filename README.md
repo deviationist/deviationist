@@ -7,6 +7,14 @@ Here's my stacks:
 - PHP - Laravel, WordPress
 - DB - MySQL, MSSQL, MongoDB
 
+What I'd like to learn more about:
+- Go
+- Python
+- More C#
+- A11Y
+
+I also enjoy messing around with Ubuntu, Docker, NGINX etc. in my spare time.
+
 <!--
 **deviationist/deviationist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
