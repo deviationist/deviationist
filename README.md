@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hei (as we say in Norwegian) 👋
+
+Here's my stacks:
+- CSS frameworks: Tailwind CSS
+- Node - TypeScript, Vue, React, Next.js, Express
+- C# - ASP.NET Blazor, Sitecore
+- PHP - Laravel, WordPress
+- DB - MySQL, MSSQL, MongoDB
 
 <!--
 **deviationist/deviationist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
