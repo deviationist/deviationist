@@ -1,19 +1,19 @@
 ### Hei (as we say in Norwegian) 👋
 
 Here's my stacks:
-- CSS frameworks: Tailwind CSS
-- Node - TypeScript, Vue, React, Next.js, Express
+- CSS/UI - Tailwind CSS, shadcn
+- JavaScript - TypeScript, Vue.js, Svelte, React, Next.js, Express.js, Sanity CMS
 - C# - ASP.NET Blazor, Sitecore
 - PHP - Laravel, WordPress
-- DB - MySQL, MSSQL, MongoDB
+- DB - MySQL, PostgreSQL, MongoDB, MSSQL
 
 What I'd like to learn more about:
 - Go
 - Python
 - More C#
-- A11Y
+- WCAG / A11Y
 
-I also enjoy messing around with Ubuntu, Docker, NGINX etc. in my spare time.
+I also enjoy messing around with Ubuntu/Debian, Docker, Nginx etc. in my spare time.
 
 <!--
 **deviationist/deviationist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
