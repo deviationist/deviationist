@@ -9,6 +9,8 @@ Here's my stacks:
 
 What I'd like to learn more about:
 - Go
+- Rust
+- Capacitor
 - Python
 - More C#
 - WCAG / A11Y
