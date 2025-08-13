@@ -6,12 +6,12 @@ Here's my stacks:
 - C# - ASP.NET Blazor, Sitecore
 - PHP - Laravel, WordPress
 - DB - MySQL, PostgreSQL, MongoDB, MSSQL
+- Python (for general scripting)
 
 What I'd like to learn more about:
 - Go
 - Rust
 - Capacitor
-- Python
 - More C#
 - WCAG / A11Y
 
