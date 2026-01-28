@@ -1,9 +1,10 @@
 ### Hei (as we say in Norwegian) 👋
 
 Here's my stacks:
-- CSS/UI - Tailwind CSS, shadcn
-- JavaScript - TypeScript, Vue.js, Svelte, React, Next.js, Express.js, Sanity CMS
-- C# - ASP.NET Blazor, Sitecore
+- CSS/UI - Tailwind CSS, shadcn/ui
+- JS/TS - React, Vue.js, Svelte, Next.js, Express.js, Sanity CMS, TanStack++
+- Test automation - Playwright, Jest, Vitest, React Testing Library
+- C# - ASP.NET, Blazor
 - PHP - Laravel, WordPress
 - DB - MySQL, PostgreSQL, MongoDB, MSSQL
 - Python (for general scripting)
