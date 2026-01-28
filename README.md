@@ -7,7 +7,7 @@ Here's my stacks:
 - C# - ASP.NET, Blazor
 - PHP - Laravel, WordPress
 - DB - MySQL, PostgreSQL, MongoDB, MSSQL
-- Python (for general scripting)
+- Python & Bash (for general scripting)
 
 What I'd like to learn more about:
 - Go
